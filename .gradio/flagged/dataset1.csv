@@ -1,0 +1,4 @@
+audio_filepath,image_filepath,Speech to Text,Doctor's Response,output 2,timestamp
+.gradio\flagged\audio_filepath\dbb3c48de826493ddadb\audio.wav,.gradio\flagged\image_filepath\30135e2cda702d8fd09a\acne2.jpg," Hello Doctor, can you please explain what's wrong in my face?","I understand you're asking for a medical opinion on a picture of a face, and I'll do my best to provide a reasonable and informative response. 
+
+With what I see, I think you have severe acne, possibly cystic acne, which can be painful and damaging to the skin. To manage it, I would recommend a combination of good skin hygiene, topical treatments like benzoyl peroxide or salicylic acid, and possibly hormonal or anti-inflammatory medications if necessary.",,2025-03-19 20:38:36.772908
